@@ -1,0 +1,18 @@
+c:\users\marina\documents\visual studio 2015\Projects\DigDes\DigDes\bin\Debug\DigDes.exe.config
+c:\users\marina\documents\visual studio 2015\Projects\DigDes\DigDes\obj\Debug\DigDes.csprojResolveAssemblyReference.cache
+c:\users\marina\documents\visual studio 2015\Projects\DigDes\DigDes\obj\Debug\DigDes.Form1.resources
+c:\users\marina\documents\visual studio 2015\Projects\DigDes\DigDes\obj\Debug\DigDes.Properties.Resources.resources
+c:\users\marina\documents\visual studio 2015\Projects\DigDes\DigDes\obj\Debug\DigDes.csproj.GenerateResource.Cache
+c:\users\marina\documents\visual studio 2015\Projects\DigDes\DigDes\bin\Debug\DigDes.exe
+c:\users\marina\documents\visual studio 2015\Projects\DigDes\DigDes\bin\Debug\DigDes.pdb
+c:\users\marina\documents\visual studio 2015\Projects\DigDes\DigDes\obj\Debug\DigDes.exe
+c:\users\marina\documents\visual studio 2015\Projects\DigDes\DigDes\obj\Debug\DigDes.pdb
+E:\gitHub\task1\DigDes\DigDes\bin\Debug\DigDes.exe.config
+E:\gitHub\task1\DigDes\DigDes\obj\Debug\DigDes.exe
+E:\gitHub\task1\DigDes\DigDes\obj\Debug\DigDes.pdb
+E:\gitHub\task1\DigDes\DigDes\bin\Debug\DigDes.exe
+E:\gitHub\task1\DigDes\DigDes\bin\Debug\DigDes.pdb
+E:\gitHub\task1\DigDes\DigDes\obj\Debug\DigDes.csprojResolveAssemblyReference.cache
+E:\gitHub\task1\DigDes\DigDes\obj\Debug\DigDes.Form1.resources
+E:\gitHub\task1\DigDes\DigDes\obj\Debug\DigDes.Properties.Resources.resources
+E:\gitHub\task1\DigDes\DigDes\obj\Debug\DigDes.csproj.GenerateResource.Cache
